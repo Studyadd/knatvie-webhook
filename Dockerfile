@@ -1,0 +1,2 @@
+FROM gcr.io/knative-nightly/knative.dev/serving/cmd/webhook@sha256:ad2864dc44eaf1a4f216798688955c5ba5455e8d828e6e58d4828a8d59dce5d2
+MAINTAINER Q
